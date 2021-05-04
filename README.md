@@ -1,4 +1,4 @@
-[![Mon Portfolio](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Clique pour aller sur mon site")](https://dicosaedrique.fr)
+[![Mon Portfolio](https://github.com/Dicosaedrique/Dicosaedrique/blob/main/readme_header.png?raw=true "Clique pour aller sur mon site")](https://dicosaedrique.fr)
 
 ## Étudiant en informatique mais surtout Développeur Full Stack passionné
 
