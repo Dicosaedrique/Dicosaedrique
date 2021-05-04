@@ -1,4 +1,4 @@
-[![Mon Portfolio](https://github.com/Dicosaedrique/Dicosaedrique/blob/main/readme_header_gh.png?raw=true "Clique pour aller sur mon site")](https://dicosaedrique.fr)
+[![Mon Portfolio](https://github.com/Dicosaedrique/Dicosaedrique/blob/main/github_readme_cover.png?raw=true "Clique pour aller sur mon site")](https://dicosaedrique.fr)
 
 ## Étudiant en informatique mais surtout Développeur Web Full Stack passionné
 
