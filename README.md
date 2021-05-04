@@ -1,6 +1,6 @@
 [![Mon Portfolio](https://github.com/Dicosaedrique/Dicosaedrique/blob/main/readme_header.png?raw=true "Clique pour aller sur mon site")](https://dicosaedrique.fr)
 
-## Étudiant en informatique mais surtout Développeur Full Stack passionné
+## Étudiant en informatique mais surtout Développeur Web Full Stack passionné
 
 **Bonjour 👋, je m'appelle Antoine mais tu peux m'appeler Dicosaedrique 😁 !**
 
