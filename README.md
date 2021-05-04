@@ -1,16 +1,19 @@
-### Hi there 👋
+[![Mon Portfolio](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Clique pour aller sur mon site")](https://dicosaedrique.fr)
 
-<!--
-**Dicosaedrique/Dicosaedrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Étudiant en informatique mais surtout Développeur Full Stack passionné
 
-Here are some ideas to get you started:
+**Bonjour 👋, je m'appelle Antoine mais tu peux m'appeler Dicosaedrique 😁 !**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Retrouve toutes mes infos et mes projets sur mon site et portfolio : [Dicosaedrique.fr](https://dicosaedrique.fr)
+
+#### Je développe en Front-End avec :
+- ReactJS (et NextJS)
+- Bootstrap
+- HTML / CSS
+#### Je développe en Back-End avec :
+- NodeJS
+- Express
+#### Des concepts qui me tiennent à cœur
+- Un code propre
+- Une bonne modélisation objet
+- Les designs patterns sont nos amis
