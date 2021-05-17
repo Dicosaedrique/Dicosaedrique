@@ -7,7 +7,7 @@
 ### Retrouve toutes mes infos et mes projets sur mon site et portfolio : [Dicosaedrique.fr](https://dicosaedrique.fr)
 
 #### Je développe en Front-End avec :
-- ReactJS (et NextJS)
+- ReactJS (et NextJS, Redux, Material-UI)
 - Bootstrap
 - HTML / CSS
 #### Je développe en Back-End avec :
