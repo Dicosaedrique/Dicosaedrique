@@ -1,19 +1,23 @@
 [![Mon Portfolio](https://github.com/Dicosaedrique/Dicosaedrique/blob/main/github_readme_cover.png?raw=true "Clique pour aller sur mon site")](https://dicosaedrique.fr)
 
-## Étudiant en informatique mais surtout Développeur Web Full Stack passionné
+## Software Developer focused on code quality
 
-**Bonjour 👋, je m'appelle Antoine mais tu peux m'appeler Dicosaedrique 😁 !**
+**Hi 👋, I'm Antoine but you can call me Dicosaedrique 😁 !**
 
-### Retrouve toutes mes infos et mes projets sur mon site et portfolio : [Dicosaedrique.fr](https://dicosaedrique.fr)
+### You can find all my infos and my projects on my website : [Dicosaedrique.fr](https://dicosaedrique.fr)
 
-#### Je développe en Front-End avec :
-- ReactJS (et NextJS, Redux, Material-UI)
+#### My frontend skills :
+- ReactJS (NextJS, Redux, Material-UI)
 - Bootstrap
 - HTML / CSS
-#### Je développe en Back-End avec :
+
+#### My backend skills :
+- .NET Core
 - NodeJS
-- Express
-#### Des concepts qui me tiennent à cœur
-- Un code propre
-- Une bonne modélisation objet
-- Les designs patterns sont nos amis
+- Firebase
+- Azure
+
+#### My core values ❤️
+- Quality and maintainability of my code
+- Help people defining their needs
+- Design patterns are our friends
