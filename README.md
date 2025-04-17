@@ -4,9 +4,8 @@
 
 **Hi 👋, I'm Antoine but you can call me Dicosaedrique 😁 !**
 
-### You can find all my infos and my projects on my website : [Dicosaedrique.fr](https://dicosaedrique.fr)
-
 #### My frontend skills :
+- Blazor
 - ReactJS (NextJS, Redux, Material-UI)
 - Bootstrap
 - HTML / CSS
